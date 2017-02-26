@@ -1,0 +1,8 @@
+title: My code world!
+description: "Koder: A killer to codes manipulating the world!"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
